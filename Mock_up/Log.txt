@@ -1,4 +1,5 @@
 /*Mock UP Interface
-* Untuk tools yang digunakan https://cacoo.com
-* Project nya silahkan buka(saya buat publik): https://cacoo.com/diagrams/NnReOhSnxKHxkg9V
+* Untuk tools yang digunakan, jika ada saran silahkan dibuat dsni.
+* Saran dari saya pakai tools online https://cacoo.com
+* Contoh Project nya silahkan buka(saya buat publik): https://cacoo.com/diagrams/NnReOhSnxKHxkg9V
 */
