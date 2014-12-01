@@ -1,0 +1,16 @@
+Berhubung keterbatasan waktu dan kesibukan masing masing.
+untuk pengerjaan tugas RPL dibagi secara langsung ke setiap anggota.
+didalam dokumen "SRS - Sistem Reservasi Rental Mobil" sudah dibagi menjadi 4 blok warna.
+
+Dhila - block merah
+Muti - block kuning
+Hendry - block biru
+hadi - block ungu
+
+mungkin pembagian nya kurang tepat, karena ada kemungkinan satu block berkaitan dengan
+block yang lain. tapi mohon dikerjakan apa yang bisa dikerjakan terlebih dahulu.
+
+untuk dedi karena tidak ada laptop, buat 4 orang yang diatas kalau ada yang perlu bantuan 
+silahkan hubungi dedi.
+
+Terimakasih 
