@@ -1,0 +1,22 @@
+ref_mobil:
+kd_ref_mobil(PK),nama(Avanza veloz, Rush, CRV),merk(Toyota, Daihatstu, Honda),jumlah(3,3,2)
+
+m_mobil:
+kd_mobil(PK),kd_ref_mobil(FK),tipe(V,E,G,LGX),transmisi(auto,manual),tahun(2013,2014),bahan_bakar(premium,solar),kd_status(FK)
+
+t_reservasi:
+kd_reservasi(PK),kd_mobil(FK),kd_user(FK),jum_hari(3),tgl_awal(2014-12-05), tgl_akhir(2014-12-07), kd_status(FK)
+
+m_user:
+kd_user(PK),nama,alamat,agama,no_identitas_user(PK)
+
+m_member:
+kd_member(PK),kd_user(FK),username, password, kd_status(FK)
+
+t_pembayaran: kd_pembayaran(PK),kd_reservasi(FK),kd_user(FK),kd_employee(FK),ket,metode(tunai/transfer),denda,total,tgl_pembayaran
+
+m_status:
+kd_status(PK),ket(booking,repaired,available,confirm,cancel,waiting,aktif,non_aktif)
+
+m_employee:
+kd_employee(PK), nama_employee, tgl_lahir, alamat, no_identitas_emp(PK)
